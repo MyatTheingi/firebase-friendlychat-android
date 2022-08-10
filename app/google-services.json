@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878434671172",
+    "project_id": "friendly-chat-d247a",
+    "storage_bucket": "friendly-chat-d247a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878434671172:android:fe2b462de984295db23a11",
+        "android_client_info": {
+          "package_name": "com.crenovert.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878434671172-h0bt1o9sts8092gv19oh70kgpdt0lmup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyy7kQmXOH2uJX8WLRWCH-MapRaMWv5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878434671172-h0bt1o9sts8092gv19oh70kgpdt0lmup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
